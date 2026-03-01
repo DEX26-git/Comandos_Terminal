@@ -1,0 +1,6 @@
+
+Tres atajos que vas a usar siempre:
+
+1. Tab        → autocompleta el nombre del archivo o carpeta
+2. ↑          → repite el comando anterior
+3. Ctrl+C     → cancela lo que está corriendo
